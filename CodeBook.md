@@ -1,4 +1,5 @@
 The following files present in UCI HAR Dataset are used:
+=========================================
 
 'features_info.txt': Shows information about the variables used on the feature vector.
 
